@@ -1,0 +1,25 @@
+
+
+------------------------------ Logs of 2018-09-25 23:59:31.422090 ------------------------------
+
+2018-09-25 23:59:33.206479 ###### Adding promotion code numer 1 from 9 : h8f4pk911rh1
+Waiting for 7.24 seconds
+The code could not be added. Saved screen shot.
+2018-09-25 23:59:41.428987 ###### Adding promotion code numer 2 from 9 : 4e4y193189j3
+Waiting for 7.52 seconds
+The code could not be added. Saved screen shot.
+2018-09-25 23:59:49.673121 ###### The code abdfew@#$%ba contains characters other than alphanumeric! Code ommited.
+2018-09-25 23:59:49.673121 ###### The code TooLongCode123456 does not have the required 12 characters! Current size: 17
+2018-09-25 23:59:49.674120 ###### Adding promotion code numer 5 from 9 : 9e9xtejyx9rj
+Waiting for 5.41 seconds
+Promotional code added correctly. You currently have 15 points.
+2018-09-25 23:59:55.563826 ###### The code ShortCode does not have the required 12 characters! Current size: 9
+2018-09-25 23:59:55.564824 ###### The code 9rx817173m11e does not have the required 12 characters! Current size: 13
+2018-09-25 23:59:55.564824 ###### Adding promotion code numer 8 from 9 : BadCode12345
+Waiting for 7.62 seconds
+The code could not be added. Saved screen shot.
+2018-09-26 00:00:04.179809 ###### Adding promotion code numer 9 from 9 : 9n9w74k497ky
+Waiting for 6.95 seconds
+Promotional code added correctly. You currently have 16 points.
+
+Script stopped
