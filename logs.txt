@@ -118,3 +118,47 @@ The code could not be added. Saved screen shot.
 Script stopped
 Error: Incorrect login or '_io.TextIOWrapper' object has no attribute 'print'
 Script stopped
+
+
+------------------------------ Logs of 2018-09-26 21:10:26.046470 ------------------------------
+
+2018-09-26 21:10:28.111114 ###### Adding promotion code numer 1 from 24 : h8f4pk911rh1
+Waiting for 5.45 seconds
+The code could not be added. Saved screen shot.
+2018-09-26 21:10:34.545407 ###### The code #8f4pk911rh1 contains characters other than alphanumeric! Code ommited.
+2018-09-26 21:10:34.545407 ###### The code TooLongCode123456 does not have the required 12 characters! Current size: 17
+2018-09-26 21:10:34.545407 ###### The code h8f4pk911rh* contains characters other than alphanumeric! Code ommited.
+2018-09-26 21:10:34.545407 ###### The code ShortCode does not have the required 12 characters! Current size: 9
+2018-09-26 21:10:34.545407 ###### Adding promotion code numer 6 from 24 : 183v31j8p7tn
+Waiting for 5.68 seconds
+The code could not be added. Saved screen shot.
+2018-09-26 21:10:40.947236 ###### Adding promotion code numer 7 from 24 : 994f48l7ptx4
+Waiting for 6.29 seconds
+The code could not be added. Saved screen shot.
+2018-09-26 21:10:47.927645 ###### Adding promotion code numer 8 from 24 : anmrv7fe4xr1
+Waiting for 6.17 seconds
+The code could not be added. Saved screen shot.
+2018-09-26 21:10:54.819851 ###### Adding promotion code numer 9 from 24 : p9jek9km9833
+Waiting for 5.84 seconds
+The code could not be added. Saved screen shot.
+2018-09-26 21:11:01.387196 ###### Adding promotion code numer 10 from 24 : 1xn81383r34e
+Waiting for 6.11 seconds
+The code could not be added. Saved screen shot.
+2018-09-26 21:11:08.207128 ###### Adding promotion code numer 11 from 24 : aw47373we889
+Waiting for 5.21 seconds
+The code could not be added. Saved screen shot.
+2018-09-26 21:11:14.117619 ###### Adding promotion code numer 12 from 24 : 1v93fxf937e3
+Waiting for 7.0 seconds
+The code could not be added. Saved screen shot.
+2018-09-26 21:11:21.831926 ###### Adding promotion code numer 13 from 24 : 41a1u48914cj
+Waiting for 7.86 seconds
+The code could not be added. Saved screen shot.
+2018-09-26 21:11:30.375071 ###### Adding promotion code numer 14 from 24 : 7ua3wt999tkc
+Waiting for 5.49 seconds
+The code could not be added. Saved screen shot.
+2018-09-26 21:11:36.620752 ###### Adding promotion code numer 15 from 24 : a8kp3yeaw997
+Waiting for 6.91 seconds
+The code could not be added. Saved screen shot.
+Script stopped
+Error: Incorrect login or blocked account or '_io.TextIOWrapper' object has no attribute 'print'
+Script stopped

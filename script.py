@@ -111,8 +111,8 @@ try:
             logs.print('Blocked account. I interrupt the script. Saved screen shot.\n')
             break
 except Exception as e:
-    print('Script stopped\nError: Incorrect login or ' + str(e))
-    logs.write('Script stopped\nError: Incorrect login or ' + str(e))
+    print('Script stopped\nError: Incorrect login or blocked account or ' + str(e))
+    logs.write('Script stopped\nError: Incorrect login or blocked account or ' + str(e))
 
 logs.write('\nScript stopped\n')
 
