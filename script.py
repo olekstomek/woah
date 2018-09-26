@@ -28,7 +28,7 @@ emailLogin = 'your@mail.com'
 password = 's3cr3tP@ssword!'
 adressPage = 'https://promocje.woah.com/'
 fileNameWithPromotionCodes = "promotion_codes.txt"
-separatorForSplittingPromotionCodes = ''
+separatorForSplittingPromotionCodes = '...'
 fileLogs = "logs.txt"
 randomSecondToAddCodeFrom = 5
 randomSecondToAddCodeTo = 8
@@ -102,12 +102,13 @@ try:
             logs.write(('Promotional code added correctly. You currently have {} points.\n').format(numberOfPoints.text)) #.text
             print(('Promotional code added correctly. You currently have {} points.\n').format(numberOfPoints.text))
         else:
-            driver.save_screenshot(str("{}_screenshot.png").format(promotionCode))
+            driver.save_screenshot(("./screenshots/{}_screenshot.png").format(promotionCode))
             logs.write('The code could not be added. Saved screen shot.\n')
             print('The code could not be added. Saved screen shot.\n')
         if 'KONTO CZASOWO ZABLOKOWANE.' in message:
-            print('Blocked account. I interrupt the script.\n')
-            logs.print('Blocked account. I interrupt the script.\n')
+            driver.save_screenshot(("./screenshots/{}_screenshot.png").format(promotionCode))
+            print('Blocked account. I interrupt the script. Saved screen shot.\n')
+            logs.print('Blocked account. I interrupt the script. Saved screen shot.\n')
             break
 except Exception as e:
     print('Script stopped\nError: Incorrect login or ' + str(e))
