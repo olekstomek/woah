@@ -106,7 +106,6 @@ try:
             logs.write('The code could not be added. Saved screen shot.\n')
             print('The code could not be added. Saved screen shot.\n')
         if 'KONTO CZASOWO ZABLOKOWANE.' in message:
-            driver.save_screenshot(("./screenshots/{}_screenshot.png").format(promotionCode))
             print('Blocked account. I interrupt the script. Saved screen shot.\n')
             logs.print('Blocked account. I interrupt the script. Saved screen shot.\n')
             break
